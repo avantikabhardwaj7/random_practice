@@ -1,0 +1,7 @@
+com\avi\practice\project\dao\CustomerDAOImpl.class
+com\avi\practice\project\dao\CustomerDAOInterface.class
+com\avi\practice\project\model\Customer.class
+com\avi\practice\project\delegate\CustomerDelegate.class
+com\avi\practice\project\service\CustomerService.class
+com\avi\practice\project\delegate\CustomerDelegateImpl.class
+com\avi\practice\project\utils\RandomPracticeApplication.class
